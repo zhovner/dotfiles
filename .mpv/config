@@ -13,3 +13,6 @@ no-native-fs
 # correct window resizing with mouse wheel on hidpi macbooks
 no-hidpi-window-scale
 
+# improve playing performance at the cost of video quality
+vd-lavc-fast
+vd-lavc-skiploopfilter=all
